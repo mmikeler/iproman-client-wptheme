@@ -1,0 +1,15 @@
+input[type=checkbox]:checked::before{
+    display: none;
+}
+.form-switch .form-check-input:checked,
+.form-switch .form-check-input{
+    background-repeat: no-repeat;
+    height: 1.5rem;
+}
+.form-check .form-check-input{
+    float: none;
+}
+
+.info ul, .info ol{
+  list-style-type: disc;
+}

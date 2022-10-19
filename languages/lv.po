@@ -1,0 +1,1049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iproman_theme\n"
+"POT-Creation-Date: 2022-08-31 16:24+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Atikus <profitpost3@gmail.com>\n"
+"Language-Team: IPROMAN\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n"
+"%10==1 && n%100!=11 ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: plugin-update-checker-master\n"
+
+#: api/api.php:117 languages/localize.php:214
+msgid "Your new password"
+msgstr "Jūsu jaunā parole"
+
+#: footer.php:41 inc/ajax.php:52
+msgid "New message"
+msgstr "Jauna ziņa"
+
+#: footer.php:47 inc/template_inc.php:414 languages/localize.php:192
+msgid "Your name"
+msgstr "Tavs vārds"
+
+#: footer.php:51 inc/template_inc.php:420
+msgid "Your phone"
+msgstr "Tavs telefons"
+
+#: footer.php:55 inc/template_inc.php:426 languages/localize.php:78
+msgid "Your email"
+msgstr "Tavs e-pasts"
+
+#: footer.php:59 inc/template_inc.php:435 languages/localize.php:193
+msgid "Your message"
+msgstr "Tava ziņa"
+
+#: footer.php:60 inc/template_inc.php:436
+msgid "Enter your message"
+msgstr "Levadiet savu ziņojumu"
+
+#: footer.php:67
+msgid "Close"
+msgstr "Aizvērt"
+
+#: footer.php:68
+msgid "Send"
+msgstr "Sūtīt"
+
+#: functions.php:176
+msgid "Log in"
+msgstr "Pieslēgties"
+
+#: header.php:60
+msgid "Consultation"
+msgstr "Konsultācija"
+
+#: inc/ajax.php:82
+msgid "Subject"
+msgstr "Priekšmets"
+
+#: inc/ajax.php:83
+msgid "Name"
+msgstr "Vārds"
+
+#: inc/ajax.php:84 inc/template_inc.php:150
+msgid "Phone"
+msgstr "Tālrunis"
+
+#: inc/ajax.php:85 languages/localize.php:54
+msgid "Email"
+msgstr "Email"
+
+#: inc/ajax.php:86
+msgid "Communication type"
+msgstr "Komunikācijas veids"
+
+#: inc/ajax.php:87
+msgid "Message"
+msgstr "Ziņojums"
+
+#: inc/ajax.php:88 inc/template_inc.php:463
+msgid "Promocode"
+msgstr "Reklāmas kods"
+
+#: inc/technical_notice.php:6
+msgid "Sorry, this section is under development."
+msgstr "Atvainojiet, šī sadaļa ir izstrādes stadijā."
+
+#: inc/template_inc.php:181 languages/localize.php:45
+msgid "Catalog"
+msgstr "Katalogs"
+
+#: inc/template_inc.php:187
+msgid "Price"
+msgstr "Cena"
+
+#: inc/template_inc.php:192
+msgid "Home"
+msgstr "Mājas"
+
+#: inc/template_inc.php:200 languages/localize.php:110
+msgid "About company"
+msgstr "Par uzņēmumu"
+
+#: inc/template_inc.php:207 languages/localize.php:122
+msgid "Our advantages"
+msgstr "Mūsu priekšrocības"
+
+#: inc/template_inc.php:214
+msgid "Contacts"
+msgstr "Kontakti"
+
+#: inc/template_inc.php:415
+msgid "Enter your name"
+msgstr "Levadiet savu vārdu"
+
+#: inc/template_inc.php:421
+msgid "Enter your phone"
+msgstr "Levadiet savu tālruni"
+
+#: inc/template_inc.php:427
+msgid "Enter your email"
+msgstr "Ievadiet savu e-pasts"
+
+#: inc/template_inc.php:453
+msgid "How to contact you"
+msgstr "Kā ar jums sazināties"
+
+#: inc/template_inc.php:464
+msgid "Enter promocode (if you have)"
+msgstr "Levadiet reklāmas kodu (ja jums ir)"
+
+#: js/custom.js:34
+msgid "Your message has been sent. Thank you!"
+msgstr "Jūsu ziņojums tika nosūtīts. Paldies!"
+
+#: js/custom.js:39
+msgid "Error sending message! Try again."
+msgstr "Sūtot ziņojumu, radās kļūda! Mēģini vēlreiz."
+
+#: languages/localize.php:31
+msgid "Page"
+msgstr "Lappuse"
+
+#: languages/localize.php:32
+msgid "Admin panel"
+msgstr "Administrēšanas panelis"
+
+#: languages/localize.php:33 templates/default.php:9 templates/default.php:43
+msgid "iProMan.Business site"
+msgstr "iProMan.Biznesa vietne"
+
+#: languages/localize.php:34
+msgid "Full version"
+msgstr "Pilna versija"
+
+#: languages/localize.php:35
+msgid "My products"
+msgstr "Mani produkti"
+
+#: languages/localize.php:36
+msgid "Domain"
+msgstr "Domēns"
+
+#: languages/localize.php:37
+msgid "Mail"
+msgstr "Pasts"
+
+#: languages/localize.php:38
+msgid "Password"
+msgstr "Parole"
+
+#: languages/localize.php:39
+msgid "Support"
+msgstr "Atbalsts"
+
+#: languages/localize.php:40
+msgid "Log out"
+msgstr "Izlogoties"
+
+#: languages/localize.php:41
+msgid ""
+"You are using the minimum features of the Admin panel iProMan.Business site"
+msgstr ""
+"Jūs izmantojat minimālās administrēšanas paneļa vietnes iProMan.Business "
+"funkcijas"
+
+#: languages/localize.php:42
+msgid ""
+"You are using the full version of the Admin Panel iProMan.business site. You "
+"can manage 20 site blocks."
+msgstr ""
+"Jūs izmantojat Admin Panel iProMan.business vietnes pilno versiju. Varat "
+"pārvaldīt 20 vietņu blokus."
+
+#: languages/localize.php:43
+msgid "Go to the full version!"
+msgstr "Iet uz pilno versiju!"
+
+#: languages/localize.php:44
+msgid "Main page"
+msgstr "Galvenā lapa"
+
+#: languages/localize.php:46
+msgid "Blog"
+msgstr "Emuārs"
+
+#: languages/localize.php:47
+msgid "FAQ"
+msgstr "FAQ"
+
+#: languages/localize.php:48
+msgid "Create a new page"
+msgstr "Izveidojiet jaunu lapu"
+
+#: languages/localize.php:49
+msgid "Site settings"
+msgstr "Vietnes iestatījumi"
+
+#: languages/localize.php:50
+msgid "Main page data management"
+msgstr "Galvenās lapas datu pārvaldība"
+
+#: languages/localize.php:51
+msgid "Contact information"
+msgstr "Kontaktinformācija"
+
+#: languages/localize.php:52
+msgid "Name of the business"
+msgstr "Uzņēmuma nosaukums"
+
+#: languages/localize.php:53
+msgid "Phone number"
+msgstr "Telefona numurs"
+
+#: languages/localize.php:55
+msgid "Address"
+msgstr "Adrese"
+
+#: languages/localize.php:56
+msgid "Social media"
+msgstr "Sociālie mēdiji"
+
+#: languages/localize.php:57
+msgid "Link to"
+msgstr "Saite uz"
+
+#: languages/localize.php:58
+msgid "Logo"
+msgstr "Logotips"
+
+#: languages/localize.php:59
+msgid "Delete"
+msgstr "Dzēst"
+
+#: languages/localize.php:60
+msgid "Upload your logo"
+msgstr "Augšupielādējiet savu logotipu"
+
+#: languages/localize.php:61
+msgid "Recommended size"
+msgstr "Ieteicamais izmērs"
+
+#: languages/localize.php:62
+msgid "Main offer"
+msgstr "Galvenais piedāvājums"
+
+#: languages/localize.php:63
+msgid "Short presentation of your business"
+msgstr "Īsa sava biznesa prezentācija"
+
+#: languages/localize.php:64
+msgid "Title of a short presentation on the main page"
+msgstr "Īsas prezentācijas nosaukums galvenajā lapā"
+
+#: languages/localize.php:65
+msgid ""
+"How do you introduce your business to a potential client in one or two "
+"sentences?"
+msgstr ""
+"Kā ar savu biznesu iepazīstināt potenciālo klientu vienā vai divos teikumos?"
+
+#: languages/localize.php:66
+msgid "The text of the first block on the main page"
+msgstr "Pirmā bloka teksts galvenajā lapā"
+
+#: languages/localize.php:67
+msgid ""
+"You need to present your offer or your business in such a way as to interest "
+"your potential client as much as possible. What was your client looking for "
+"before visiting the site? Supplier of certain goods or services. Write in "
+"such a way that the client understands that he found exactly what he was "
+"looking for. What will you sell to your client (briefly, as the detailed "
+"description of the products will be in subsequent blocks)? Why is it better "
+"to contact you?"
+msgstr ""
+"Jums savs piedāvājums vai bizness ir jāprezentē tā, lai pēc iespējas vairāk "
+"ieinteresētu jūsu potenciālo klientu. Ko jūsu klients meklēja pirms vietnes "
+"apmeklēšanas? Noteiktu preču vai pakalpojumu piegādātājs. Rakstiet tā, lai "
+"klients saprastu, ka ir atradis tieši to, ko meklējis. Ko pārdosiet savam "
+"klientam (īsumā, jo detalizēts produktu apraksts būs nākamajos blokos)? "
+"Kāpēc ir labāk ar jums sazināties?"
+
+#: languages/localize.php:68
+msgid "4 important arguments"
+msgstr "4 svarīgi argumenti"
+
+#: languages/localize.php:69
+msgid "Argument header"
+msgstr "Argumenta galvene"
+
+#: languages/localize.php:70
+msgid "Applications"
+msgstr "Lietojumprogrammas"
+
+#: languages/localize.php:71
+msgid "Description of the argument"
+msgstr "Argumenta apraksts"
+
+#: languages/localize.php:72
+msgid "Attracting customers for your business"
+msgstr "Klientu piesaiste savam biznesam"
+
+#: languages/localize.php:73
+msgid "Upload an image to display on the website of the argument. Size:"
+msgstr ""
+"Klientu piesaiste savam uzņēmumamAugšupielādējiet attēlu, ko parādīt "
+"argumenta tīmekļa vietnē. Izmērs:"
+
+#: languages/localize.php:74 languages/localize.php:156
+msgid "Catalog management"
+msgstr "Kataloga pārvaldība"
+
+#: languages/localize.php:75
+msgid "Promotion"
+msgstr "Veicināšana"
+
+#: languages/localize.php:76
+msgid "Upload an image to display on the site. The size:"
+msgstr "Augšupielādējiet attēlu, ko parādīt vietnē. Izmērs:"
+
+#: languages/localize.php:77
+msgid "Advertising your products and services on the Internet"
+msgstr "Reklamējiet savus produktus un pakalpojumus internetā"
+
+#: languages/localize.php:79
+msgid "Web site"
+msgstr "tīmekļa vietne"
+
+#: languages/localize.php:80
+msgid "Make changes in this section only if you know what you are doing."
+msgstr "Veiciet izmaiņas šajā sadaļā tikai tad, ja zināt, ko darāt."
+
+#: languages/localize.php:81
+msgid "Order a website: selling, modern, according to your needs"
+msgstr "Pasūtiet mājaslapu: pārdošana, moderna, atbilstoši jūsu vajadzībām"
+
+#: languages/localize.php:82
+msgid "Additionally"
+msgstr "Turklāt"
+
+#: languages/localize.php:83
+msgid "Contact button text (in the header)"
+msgstr "Kontaktpersonas pogas teksts (galvenē)"
+
+#: languages/localize.php:84
+msgid "Advertising"
+msgstr "Reklāma"
+
+#: languages/localize.php:85
+msgid "Copyright text"
+msgstr "Autortiesību teksts"
+
+#: languages/localize.php:86
+msgid "Order advertising on the Internet"
+msgstr "Pasūtiet reklāmu internetā"
+
+#: languages/localize.php:87
+msgid "Favicon - icon on browser tab"
+msgstr "Favicon — ikona pārlūkprogrammas cilnē"
+
+#: languages/localize.php:88
+msgid "Our products"
+msgstr "Mūsu produkti"
+
+#: languages/localize.php:89 languages/localize.php:183
+msgid ""
+"This text acts as a navigation link to the relevant section of your site."
+msgstr ""
+"Šis teksts darbojas kā navigācijas saite uz atbilstošo jūsu vietnes sadaļu."
+
+#: languages/localize.php:90
+msgid "Description of the first product to display on the main page"
+msgstr "Pirmā produkta apraksts, kas tiek parādīts galvenajā lapā"
+
+#: languages/localize.php:91
+msgid "Description of the second product to display on the main page"
+msgstr "Otrā produkta apraksts, kas jāparāda galvenajā lapā"
+
+#: languages/localize.php:92
+msgid "Description of the third product to display on the main page"
+msgstr "Trešā produkta apraksts, kas jāparāda galvenajā lapā"
+
+#: languages/localize.php:93
+msgid "Description of the fourth product to display on the main page"
+msgstr "Ceturtā produkta apraksts, kas jāparāda galvenajā lapā"
+
+#: languages/localize.php:94
+msgid "The product`s name"
+msgstr "Produkta nosaukums"
+
+#: languages/localize.php:95
+msgid "Description of the first parameter of the product"
+msgstr "Produkta pirmā parametra apraksts"
+
+#: languages/localize.php:96
+msgid "Description of the second product parameter"
+msgstr "Otrā produkta parametra apraksts"
+
+#: languages/localize.php:97
+msgid "Description of the third parameter of the product"
+msgstr "Preces trešā parametra apraksts"
+
+#: languages/localize.php:98
+msgid "Description of the fourth product parameter"
+msgstr "Ceturtā produkta parametra apraksts"
+
+#: languages/localize.php:99
+msgid "Description of the fifth parameter of the product"
+msgstr "Produkta piektā parametra apraksts"
+
+#: languages/localize.php:100
+msgid "Description of the sixth parameter of the product"
+msgstr "Produkta sestā parametra apraksts"
+
+#: languages/localize.php:101
+msgid "Price and currency"
+msgstr "Cena un valūta"
+
+#: languages/localize.php:102
+msgid "Additional condition to the price"
+msgstr "Papildus nosacījums cenai"
+
+#: languages/localize.php:103
+msgid "Button text"
+msgstr "Pogas teksts"
+
+#: languages/localize.php:104
+msgid "Delete product"
+msgstr "Dzēst produktu"
+
+#: languages/localize.php:105
+msgid "Add text box - product option"
+msgstr "Pievienot tekstlodziņu - produkta opcija"
+
+#: languages/localize.php:106
+msgid "Product description"
+msgstr "Produkta apraksts"
+
+#: languages/localize.php:107
+msgid "Upload a product image. Size:"
+msgstr "Augšupielādējiet produkta attēlu. Izmērs:"
+
+#: languages/localize.php:108
+msgid "Add a product to display on the main page"
+msgstr "Pievienojiet produktu, ko parādīt galvenajā lapā"
+
+#: languages/localize.php:109
+msgid "You can place more products on"
+msgstr "Jūs varat ievietot vairāk produktu"
+
+#: languages/localize.php:111
+msgid "Article about your company"
+msgstr "Raksts par jūsu uzņēmumu"
+
+#: languages/localize.php:112
+msgid "Article title"
+msgstr "Raksta nosaukums"
+
+#: languages/localize.php:113
+msgid "About our company"
+msgstr "Par mūsu uzņēmumu"
+
+#: languages/localize.php:114
+msgid "The text of the article \"About the company\""
+msgstr "Raksta \"Par uzņēmumu\" teksts"
+
+#: languages/localize.php:115
+msgid ""
+"Write the key data characterizing your enterprise. How long ago did you "
+"start working? How many employees? What are the achievements of the company "
+"in the industry? What characteristics of your company`s organization should "
+"inspire confidence in a potential client?"
+msgstr ""
+"Uzrakstiet galvenos datus, kas raksturo jūsu uzņēmumu. Pirms cik ilga laika "
+"jūs sākāt strādāt? Cik darbinieku? Kādi ir uzņēmuma sasniegumi nozarē? Kādām "
+"jūsu uzņēmuma organizācijas iezīmēm potenciālajā klientā vajadzētu iedvesmot "
+"uzticību?"
+
+#: languages/localize.php:116
+msgid "Video presentation"
+msgstr "Video prezentācija"
+
+#: languages/localize.php:117
+msgid "Title"
+msgstr "Nosaukums"
+
+#: languages/localize.php:118
+msgid "Profitable"
+msgstr "Izdevīgi"
+
+#: languages/localize.php:119
+msgid "Text"
+msgstr "Teksts"
+
+#: languages/localize.php:120
+msgid ""
+"Write information indicating the good quality of your services or products. "
+"Warranty terms, if you can give one. For example, we only work with the most "
+"talented designers."
+msgstr ""
+"Uzrakstiet informāciju, kas norāda uz jūsu pakalpojumu vai produktu labo "
+"kvalitāti. Garantijas noteikumi, ja varat tādus dot. Piemēram, mēs strādājam "
+"tikai ar talantīgākajiem dizaineriem."
+
+#: languages/localize.php:121
+msgid "Upload a video to display on the site"
+msgstr "Augšupielādējiet videoklipu, lai to parādītu vietnē"
+
+#: languages/localize.php:123
+msgid "First advantage"
+msgstr "Pirmā priekšrocība"
+
+#: languages/localize.php:124
+msgid "Second advantage"
+msgstr "Otrā priekšrocība"
+
+#: languages/localize.php:125
+msgid "Third advantage"
+msgstr "Trešā priekšrocība"
+
+#: languages/localize.php:126
+msgid "Description of the benefit"
+msgstr "Pabalsta apraksts"
+
+#: languages/localize.php:127
+msgid "Describe your benefit. Keep within 100 characters."
+msgstr "Aprakstiet savu labumu. Nepārsniedziet 100 rakstzīmes."
+
+#: languages/localize.php:128
+msgid "Upload a picture of the benefit. Size:"
+msgstr "Augšupielādējiet priekšrocību attēlu. Izmērs:"
+
+#: languages/localize.php:129
+msgid "Upload"
+msgstr "Augšupielādēt"
+
+#: languages/localize.php:130
+msgid "Benefit heading"
+msgstr "Pabalstu virsraksts"
+
+#: languages/localize.php:131
+msgid "We are the best!"
+msgstr "Mēs esam labākie!"
+
+#: languages/localize.php:132
+msgid "We are reliable!"
+msgstr "Mēs esam uzticami!"
+
+#: languages/localize.php:133
+msgid "We are profitable!"
+msgstr "Mēs esam izdevīgi!"
+
+#: languages/localize.php:134
+msgid "Connect with us"
+msgstr "Sazinieties ar mums"
+
+#: languages/localize.php:135
+msgid "Add new image"
+msgstr "Pievienot jaunu attēlu"
+
+#: languages/localize.php:136
+msgid "Add image"
+msgstr "Pievienot attēlu"
+
+#: languages/localize.php:137
+msgid "or choose from the collection"
+msgstr "vai izvēlieties no kolekcijas"
+
+#: languages/localize.php:138
+msgid "Localization management"
+msgstr "Lokalizācijas vadība"
+
+#: languages/localize.php:139
+msgid "Add a language"
+msgstr "Pievienojiet valodu"
+
+#: languages/localize.php:140
+msgid "Contact form"
+msgstr "Saziņas veidlapa"
+
+#: languages/localize.php:141
+msgid "Block header"
+msgstr "Bloķēt galveni"
+
+#: languages/localize.php:142
+msgid "Email to which requests will be sent"
+msgstr "E-pasts, uz kuru tiks nosūtīti pieprasījumi"
+
+#: languages/localize.php:143
+msgid ""
+"The client will indicate the phone number and will be able to choose the "
+"preferred type of communication from the list:"
+msgstr ""
+"Klients norādīs tālruņa numuru un no saraksta varēs izvēlēties sev vēlamo "
+"saziņas veidu:"
+
+#: languages/localize.php:144
+msgid "Telephone call"
+msgstr "Telefona zvans"
+
+#: languages/localize.php:145
+msgid ""
+"The client will be able to mark the topic, question or service of interest "
+"to him (maximum 4, if the field is empty, then it will not appear on the "
+"site)"
+msgstr ""
+"Klients varēs atzīmēt sev interesējošo tēmu, jautājumu vai pakalpojumu "
+"(maksimums 4, ja lauks ir tukšs, tad tas vietnē neparādīsies)"
+
+#: languages/localize.php:146
+msgid "Topic name"
+msgstr "Tēmas nosaukums"
+
+#: languages/localize.php:147
+msgid "Add topic"
+msgstr "Pievienot tēmu"
+
+#: languages/localize.php:148
+msgid "Text on the Submit Request button"
+msgstr "Teksts uz pogas Iesniegt pieprasījumu"
+
+#: languages/localize.php:149
+msgid "Additional features for the client:"
+msgstr "Papildus iespējas klientam:"
+
+#: languages/localize.php:150
+msgid "Send a message"
+msgstr "Nosūtīt ziņu"
+
+#: languages/localize.php:151
+msgid "Enter promo code"
+msgstr "Ievadiet reklāmas kodu"
+
+#: languages/localize.php:152
+msgid "The recommended amount of site filling is 5000 characters"
+msgstr "Ieteicamais vietnes aizpildīšanas apjoms ir 5000 rakstzīmes"
+
+#: languages/localize.php:153
+msgid "Completed characters"
+msgstr "Pabeigtas rakstzīmes"
+
+#: languages/localize.php:154
+msgid "Go up"
+msgstr "Ej augšā"
+
+#: languages/localize.php:155
+msgid "Block in development"
+msgstr "Bloks izstrādes procesā"
+
+#: languages/localize.php:157
+msgid "To main"
+msgstr "Uz galveno"
+
+#: languages/localize.php:158
+msgid "Enable Catalog Page"
+msgstr "Iespējot kataloga lapu"
+
+#: languages/localize.php:159
+msgid "Add product to catalog"
+msgstr "Pievienot produktu katalogam"
+
+#: languages/localize.php:160
+msgid "Catalog page name"
+msgstr "Kataloga lapas nosaukums"
+
+#: languages/localize.php:161
+msgid "Enter page name"
+msgstr "Ievadiet lapas nosaukumu"
+
+#: languages/localize.php:162
+msgid "Catalog page title"
+msgstr "Kataloga lapas nosaukums"
+
+#: languages/localize.php:163
+msgid "Enter page title"
+msgstr "Ievadiet lapas nosaukumu"
+
+#: languages/localize.php:164
+msgid "Catalog page description"
+msgstr "Kataloga lapas apraksts"
+
+#: languages/localize.php:165
+msgid "Enter page description"
+msgstr "Ievadiet lapas aprakstu"
+
+#: languages/localize.php:166
+msgid "Remove a product from the catalog?"
+msgstr "Vai noņemt preci no kataloga?"
+
+#: languages/localize.php:167
+msgid "Product name to display in the catalog"
+msgstr "Produkta nosaukums, kas jāparāda katalogā"
+
+#: languages/localize.php:168
+msgid "Enter product name"
+msgstr "Ievadiet produkta nosaukumu"
+
+#: languages/localize.php:169
+msgid "Product description to display in the catalog"
+msgstr "Produkta apraksts, kas jāparāda katalogā"
+
+#: languages/localize.php:170
+msgid "Enter data"
+msgstr "Ievadiet datus"
+
+#: languages/localize.php:171
+msgid "Enter condition text"
+msgstr "Ievadiet nosacījuma tekstu"
+
+#: languages/localize.php:172
+msgid "Enter text"
+msgstr "Ievadiet tekstu"
+
+#: languages/localize.php:173
+msgid "Upload a product image"
+msgstr "Augšupielādējiet produkta attēlu"
+
+#: languages/localize.php:174
+msgid ""
+"Describe the main parameter of your product. You can add up to six products "
+"or services in total."
+msgstr ""
+"Aprakstiet sava produkta galveno parametru. Kopā varat pievienot līdz sešiem "
+"produktiem vai pakalpojumiem."
+
+#: languages/localize.php:175
+msgid "Product gallery"
+msgstr "Produktu galerija"
+
+#: languages/localize.php:176
+msgid "Description of the product or service"
+msgstr "Produkta vai pakalpojuma apraksts"
+
+#: languages/localize.php:177
+msgid "Name of the product or service"
+msgstr "Produkta vai pakalpojuma nosaukums"
+
+#: languages/localize.php:178
+msgid "Your product is missing parameters"
+msgstr "Jūsu produktam trūkst parametru"
+
+#: languages/localize.php:179
+msgid "Enter product description"
+msgstr "Ievadiet preces aprakstu"
+
+#: languages/localize.php:180
+msgid "Loading..."
+msgstr "Notiek ielāde..."
+
+#: languages/localize.php:181
+msgid "Messengers"
+msgstr "Kurjeri"
+
+#: languages/localize.php:182
+msgid "Site versions for different languages"
+msgstr "Vietņu versijas dažādām valodām"
+
+#: languages/localize.php:184
+msgid "Default site language"
+msgstr "Vietnes noklusējuma valoda"
+
+#: languages/localize.php:185
+msgid ""
+"The first item in your list of added languages is the site's default language"
+msgstr ""
+"Pirmais vienums pievienoto valodu sarakstā ir vietnes noklusējuma valoda"
+
+#: languages/localize.php:186
+msgid "Your site may be available in these languages"
+msgstr "Jūsu vietne var būt pieejama šajās valodās"
+
+#: languages/localize.php:187
+msgid "You can add localization for a site from this list"
+msgstr "Vietnei varat pievienot lokalizāciju no šī saraksta"
+
+#: languages/localize.php:188
+msgid "To change the main language of the site, move it to the top of the list"
+msgstr "Lai mainītu vietnes galveno valodu, pārvietojiet to uz saraksta sākumu"
+
+#: languages/localize.php:189
+msgid "Import registration data"
+msgstr "Importēt reģistrācijas datus"
+
+#: languages/localize.php:190
+msgid "YES"
+msgstr "JĀ"
+
+#: languages/localize.php:191
+msgid "NO"
+msgstr "NĒ"
+
+#: languages/localize.php:194
+msgid "Additionally inform"
+msgstr "Papildus informēt"
+
+#: languages/localize.php:195
+msgid "Free domain change"
+msgstr "Bezmaksas domēna maiņa"
+
+#: languages/localize.php:196
+msgid "Please, change the current domain to"
+msgstr "Lūdzu, mainiet pašreizējo domēnu uz"
+
+#: languages/localize.php:197
+msgid "Connecting your domain"
+msgstr "Jūsu domēna savienošana"
+
+#: languages/localize.php:198
+msgid "Specify the domain you want to attach"
+msgstr "Norādiet domēnu, kuru vēlaties pievienot"
+
+#: languages/localize.php:199
+msgid "Your message has been sent"
+msgstr "Jūsu ziņojums tika nosūtīts"
+
+#: languages/localize.php:200
+msgid "Error sending message. Try later."
+msgstr "Nosūtot ziņojumu, radās kļūda. Mēģiniet vēlāk."
+
+#: languages/localize.php:201
+msgid "Change mail"
+msgstr "Mainīt pastu"
+
+#: languages/localize.php:202
+msgid "Your mail"
+msgstr "Jūsu pasts"
+
+#: languages/localize.php:203
+msgid "Please, change the current email to"
+msgstr "Lūdzu, mainiet pašreizējo e-pastu uz"
+
+#: languages/localize.php:204
+msgid "I understand, still send"
+msgstr "Saprotu, tomēr sūtīt"
+
+#: languages/localize.php:205
+msgid ""
+"Changing the mail name will create a new mailbox. All information from the "
+"current mailbox will be deleted and is no longer available."
+msgstr ""
+"Mainot pasta nosaukumu, tiks izveidota jauna pastkaste. Visa informācija no "
+"pašreizējās pastkastes tiks dzēsta un vairs nav pieejama."
+
+#: languages/localize.php:206
+msgid "Go to Webmail"
+msgstr "Dodieties uz Webmail"
+
+#: languages/localize.php:207
+msgid "Connect mail on your domain"
+msgstr "Savienojiet pastu savā domēnā"
+
+#: languages/localize.php:208
+msgid ""
+"In order to connect mail on your domain, you need to send domain.Go to the "
+"Manage Domains page and connect your domain if you haven`t already"
+msgstr ""
+"Lai savienotu pastu savā domēnā, jums ir jānosūta domēns. Dodieties uz lapu "
+"Pārvaldīt domēnus un pievienojiet savu domēnu, ja vēl neesat to izdarījis"
+
+#: languages/localize.php:209
+msgid "Go to domain management"
+msgstr "Dodieties uz domēna pārvaldību"
+
+#: languages/localize.php:210
+msgid "Specify the name of the domain on which you want to connect mail"
+msgstr "Norādiet tā domēna nosaukumu, kuram vēlaties pievienot pastu"
+
+#: languages/localize.php:211
+msgid "Enter the email name you want"
+msgstr "Ievadiet vajadzīgo e-pasta nosaukumu"
+
+#: languages/localize.php:212
+msgid "Your login"
+msgstr "Jūsu pieteikšanās"
+
+#: languages/localize.php:213
+msgid "Reset the password"
+msgstr "Atiestatiet paroli"
+
+#: languages/localize.php:215
+msgid "Change"
+msgstr "Mainīt"
+
+#: languages/localize.php:216
+msgid "A new password will be sent to this address"
+msgstr "Uz šo adresi tiks nosūtīta jauna parole"
+
+#: languages/localize.php:217
+msgid "The password has been sent to the specified mailbox"
+msgstr "Parole ir nosūtīta uz norādīto pastkasti"
+
+#: languages/localize.php:218
+msgid "Processing request"
+msgstr "Notiek pieprasījuma apstrāde"
+
+#: templates/ip-catalog-tpl.php:67
+msgid "Read more"
+msgstr "Lasīt vairāk"
+
+#: templates/ip-catalog-tpl.php:68
+msgid "Read less"
+msgstr "Lasi mazāk"
+
+#: templates/ip-catalog-tpl.php:81
+msgid "New order"
+msgstr "Jauns pasūtījums"
+
+#: templates/ip-catalog-tpl.php:82
+msgid "Order"
+msgstr "Pasūtiet"
+
+#: templates/ip-catalog-tpl.php:96
+msgid "Catalog is empty"
+msgstr "Katalogs ir tukšs"
+
+#: templates/ip-catalog-tpl.php:110
+msgid "Prev"
+msgstr "Iepriekšējā"
+
+#: templates/ip-catalog-tpl.php:114
+msgid "Next"
+msgstr "Nākamais"
+
+#~ msgid "Новое обращение"
+#~ msgstr "Jauna apelācija"
+
+#~ msgid "Ваше имя"
+#~ msgstr "Tavs vārds"
+
+#~ msgid "Ваш телефон"
+#~ msgstr "Savu tālruņa numuru"
+
+#~ msgid "Ваша почта"
+#~ msgstr "Jūsu pasts"
+
+#~ msgid "Ваше сообщение"
+#~ msgstr "Tava ziņa"
+
+#~ msgid "Введите текст сообщения"
+#~ msgstr "Levadiet savu ziņojumu"
+
+#~ msgid "Закрыть"
+#~ msgstr "Aizveriet"
+
+#~ msgid "Отправить"
+#~ msgstr "Sūtīt"
+
+#~ msgid "Консультация"
+#~ msgstr "Jauna apelācija"
+
+#~ msgid "Тема"
+#~ msgstr "Temats"
+
+#~ msgid "Имя"
+#~ msgstr "Vārds"
+
+#~ msgid "Телефон"
+#~ msgstr "Tālrunis"
+
+#~ msgid "Вид связи"
+#~ msgstr "Komunikācijas veids"
+
+#~ msgid "Сообщение"
+#~ msgstr "Ziņojums"
+
+#~ msgid "Промокод"
+#~ msgstr "Reklāmas kods"
+
+#~ msgid "Введите Ваше имя"
+#~ msgstr "Levadiet savu vārdu"
+
+#~ msgid "Ваш номер телефона"
+#~ msgstr "Jūsu tālruņa numurs"
+
+#~ msgid "Введите Ваш номер телефона"
+#~ msgstr "Levadiet savu tālruņa numuru"
+
+#~ msgid "Введите Ваш адрес электронной почты"
+#~ msgstr "Ievadiet savu e-pasta adresi"
+
+#~ msgid "Вашe сообщение"
+#~ msgstr "Tava ziņa"
+
+#~ msgid "Введите Ваше сообщение"
+#~ msgstr "Levadiet savu ziņojumu"
+
+#~ msgid "Выбор связи"
+#~ msgstr "Saites izvēle"
+
+#~ msgid "Введите промокод (если есть)"
+#~ msgstr "Levadiet reklāmas kodu (ja tāds ir)"
+
+#~ msgid "Ваше сообщение отправлено. Спасибо!"
+#~ msgstr "Jūsu ziņojums tika nosūtīts. Paldies!"
+
+#~ msgid "Ошибка при отправке сообщения! Попробуйте ещё раз."
+#~ msgstr "Sūtot ziņojumu, radās kļūda! Mēģini vēlreiz."
+
+#~ msgid "Развернуть"
+#~ msgstr "Izvērst"
+
+#~ msgid "Свернуть"
+#~ msgstr "Sakļaut"
+
+#~ msgid "Новый заказ"
+#~ msgstr "Jauns pasūtījums"
+
+#~ msgid "Заказать"
+#~ msgstr "Pasūtiet"
+
+#~ msgid "Каталог пуст"
+#~ msgstr "Katalogs ir tukšs"
+
+#~ msgid "Предыдущий"
+#~ msgstr "Lepriekšējais"
+
+#~ msgid "Следующий"
+#~ msgstr "Nākamais"

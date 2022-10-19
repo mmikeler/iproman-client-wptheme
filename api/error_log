@@ -1,0 +1,14 @@
+[09-Feb-2022 12:05:46 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SELECT meta_key , meta_value FROM `ip_iproman`, выполненный get_ip_rows
+[09-Feb-2022 12:06:02 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:06:06 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:06:50 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:06:51 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SELECT meta_key , meta_value FROM `ip_iproman`, выполненный get_ip_rows
+[09-Feb-2022 12:07:22 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:07:24 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:07:47 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:07:48 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SELECT meta_key , meta_value FROM `ip_iproman`, выполненный get_ip_rows
+[09-Feb-2022 12:08:18 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:08:34 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SELECT meta_key , meta_value FROM `ip_iproman`, выполненный get_ip_rows
+[09-Feb-2022 12:24:12 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SELECT meta_key , meta_value FROM `ip_iproman`, выполненный get_ip_rows
+[09-Feb-2022 12:24:18 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SHOW FULL COLUMNS FROM `ip_iproman`, выполненный update_ip_row
+[09-Feb-2022 12:24:27 UTC] База данных WordPress возвратила ошибку Table 'iproman_bd.ip_iproman' doesn't exist в ответ на запрос SELECT meta_key , meta_value FROM `ip_iproman`, выполненный get_ip_rows

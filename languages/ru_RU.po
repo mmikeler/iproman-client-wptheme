@@ -1,0 +1,1017 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iproman_theme\n"
+"POT-Creation-Date: 2022-09-20 18:50+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Atikus <profitpost3@gmail.com>\n"
+"Language-Team: IPROMAN\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n"
+"%10==1 && n%100!=11 ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: plugin-update-checker-master\n"
+
+#: api/api.php:116 languages/localize.php:214
+msgid "Your new password"
+msgstr "Ваш новый пароль"
+
+#: footer.php:41 inc/ajax.php:52
+msgid "New message"
+msgstr "Новое сообщение"
+
+#: footer.php:48 inc/template_inc.php:416 languages/localize.php:192
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: footer.php:52 inc/template_inc.php:422
+msgid "Your phone"
+msgstr "Ваш телефон"
+
+#: footer.php:56 inc/template_inc.php:428 languages/localize.php:78
+msgid "Your email"
+msgstr "Ваша почта"
+
+#: footer.php:60 inc/template_inc.php:437 languages/localize.php:193
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: footer.php:61 inc/template_inc.php:438
+msgid "Enter your message"
+msgstr "Введите Ваше сообщение"
+
+#: footer.php:68
+msgid "Close"
+msgstr "Закрыть"
+
+#: footer.php:69
+msgid "Send"
+msgstr "Отправить"
+
+#: functions.php:176
+msgid "Log in"
+msgstr "Войти"
+
+#: inc/ajax.php:82
+msgid "Subject"
+msgstr "Тема"
+
+#: inc/ajax.php:83
+msgid "Name"
+msgstr "Имя"
+
+#: inc/ajax.php:84 inc/template_inc.php:152
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/ajax.php:85 languages/localize.php:54
+msgid "Email"
+msgstr "Email"
+
+#: inc/ajax.php:86
+msgid "Communication type"
+msgstr "Вид связи"
+
+#: inc/ajax.php:87
+msgid "Message"
+msgstr "Сообщение"
+
+#: inc/ajax.php:88 inc/template_inc.php:465
+msgid "Promocode"
+msgstr "Промокод"
+
+#: inc/technical_notice.php:6
+msgid "Sorry, this section is under development."
+msgstr "Извините, данный раздел находится в разработке."
+
+#: inc/template_inc.php:183 languages/localize.php:45
+msgid "Catalog"
+msgstr "Каталог"
+
+#: inc/template_inc.php:189
+msgid "Price"
+msgstr "Прайс"
+
+#: inc/template_inc.php:194
+msgid "Home"
+msgstr "Главная"
+
+#: inc/template_inc.php:202 languages/localize.php:110
+msgid "About company"
+msgstr "О компании"
+
+#: inc/template_inc.php:209 languages/localize.php:122
+msgid "Our advantages"
+msgstr "Наши преимущества"
+
+#: inc/template_inc.php:216
+msgid "Contacts"
+msgstr "Форма связи"
+
+#: inc/template_inc.php:417
+msgid "Enter your name"
+msgstr "Введите своё имя"
+
+#: inc/template_inc.php:423
+msgid "Enter your phone"
+msgstr "Введите свой телефон"
+
+#: inc/template_inc.php:429
+msgid "Enter your email"
+msgstr "Введите свою почту"
+
+#: inc/template_inc.php:455
+msgid "How to contact you"
+msgstr "Как с Вами связаться"
+
+#: inc/template_inc.php:466
+msgid "Enter promocode (if you have)"
+msgstr "Введите промокод (если есть)"
+
+#: js/custom.js:34
+msgid "Your message has been sent. Thank you!"
+msgstr "Ваше сообщение отправлено. Спасибо!"
+
+#: js/custom.js:39
+msgid "Error sending message! Try again."
+msgstr "Ошибка при отправке сообщения. Попробуйте позже."
+
+#: languages/localize.php:31
+msgid "Page"
+msgstr "Страница"
+
+#: languages/localize.php:32
+msgid "Admin panel"
+msgstr "Админ-панель"
+
+#: languages/localize.php:33 templates/default.php:9 templates/default.php:43
+msgid "iProMan.Business site"
+msgstr "iProMan.Бизнес-сайт"
+
+#: languages/localize.php:34
+msgid "Full version"
+msgstr "Полная версия"
+
+#: languages/localize.php:35
+msgid "My products"
+msgstr "Мои продукты"
+
+#: languages/localize.php:36
+msgid "Domain"
+msgstr "Домен"
+
+#: languages/localize.php:37
+msgid "Mail"
+msgstr "Почта"
+
+#: languages/localize.php:38
+msgid "Password"
+msgstr "Пароль"
+
+#: languages/localize.php:39
+msgid "Support"
+msgstr "Поддержка"
+
+#: languages/localize.php:40
+msgid "Log out"
+msgstr "Выйти"
+
+#: languages/localize.php:41
+msgid ""
+"You are using the minimum features of the Admin panel iProMan.Business site"
+msgstr ""
+"Вы используете минимальные возможности панели администратора сайта iProMan."
+"Бизнес-сайт"
+
+#: languages/localize.php:42
+msgid ""
+"You are using the full version of the Admin Panel iProMan.business site. You "
+"can manage 20 site blocks."
+msgstr ""
+"Вы используете полную версию Админ-панели iProMan.Бизнес-сайт. Вам доступно "
+"управление 20 блоками сайта."
+
+#: languages/localize.php:43
+msgid "Go to the full version!"
+msgstr "Перейти на полную версию!"
+
+#: languages/localize.php:44
+msgid "Main page"
+msgstr "Главная страница"
+
+#: languages/localize.php:46
+msgid "Blog"
+msgstr "Блог"
+
+#: languages/localize.php:47
+msgid "FAQ"
+msgstr "FAQ"
+
+#: languages/localize.php:48
+msgid "Create a new page"
+msgstr "Добавить страницу"
+
+#: languages/localize.php:49
+msgid "Site settings"
+msgstr "Настройки сайта"
+
+#: languages/localize.php:50
+msgid "Main page data management"
+msgstr "Настройки главной страницы"
+
+#: languages/localize.php:51
+msgid "Contact information"
+msgstr "Контактная информация"
+
+#: languages/localize.php:52
+msgid "Name of the business"
+msgstr "Название бизнеса"
+
+#: languages/localize.php:53
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: languages/localize.php:55
+msgid "Address"
+msgstr "Адрес"
+
+#: languages/localize.php:56
+msgid "Social media"
+msgstr "Социальные сети"
+
+#: languages/localize.php:57
+msgid "Link to"
+msgstr "Ссылка на"
+
+#: languages/localize.php:58
+msgid "Logo"
+msgstr "Логотип"
+
+#: languages/localize.php:59
+msgid "Delete"
+msgstr "Удалить"
+
+#: languages/localize.php:60
+msgid "Upload your logo"
+msgstr "Загрузите Ваш логотип"
+
+#: languages/localize.php:61
+msgid "Recommended size"
+msgstr "Рекомендованный размер"
+
+#: languages/localize.php:62
+msgid "Main offer"
+msgstr "Главное предложение"
+
+#: languages/localize.php:63
+msgid "Short presentation of your business"
+msgstr "Короткая презентация Вашего бизнеса"
+
+#: languages/localize.php:64
+msgid "Title of a short presentation on the main page"
+msgstr "Заголовок короткой презентации на главной странице"
+
+#: languages/localize.php:65
+msgid ""
+"How do you introduce your business to a potential client in one or two "
+"sentences?"
+msgstr ""
+"Как Вы представите свой бизнес потенциальному клиенту одним или двумя "
+"предложениями?"
+
+#: languages/localize.php:66
+msgid "The text of the first block on the main page"
+msgstr "Текст первого блока главной страницы"
+
+#: languages/localize.php:67
+msgid ""
+"You need to present your offer or your business in such a way as to interest "
+"your potential client as much as possible. What was your client looking for "
+"before visiting the site? Supplier of certain goods or services. Write in "
+"such a way that the client understands that he found exactly what he was "
+"looking for. What will you sell to your client (briefly, as the detailed "
+"description of the products will be in subsequent blocks)? Why is it better "
+"to contact you?"
+msgstr ""
+"Вам необходимо представить свое предложение или свой бизнес таким образом, "
+"чтобы максимально заинтересовать Вашего потенциального клиента.   Что искал "
+"Ваш клиент перед тем как зайти на сайт?  Поставщика определенных товаров или "
+"услуг.   Напишите так, чтобы клиент понял, что он нашел именно то, что "
+"искал.  Что Вы продадите Вашему клиенту (коротко, так как подробное описание "
+"продуктов будет в последующих блоках)?  Почему обратиться лучше к Вам?"
+
+#: languages/localize.php:68
+msgid "4 important arguments"
+msgstr "4 важных аргумента"
+
+#: languages/localize.php:69
+msgid "Argument header"
+msgstr "Заголовок аргумента"
+
+#: languages/localize.php:70
+msgid "Applications"
+msgstr "Заявки"
+
+#: languages/localize.php:71
+msgid "Description of the argument"
+msgstr "Описание аргумента"
+
+#: languages/localize.php:72
+msgid "Attracting customers for your business"
+msgstr "Привлечение клиентов для Вашего бизнеса"
+
+#: languages/localize.php:73
+msgid "Upload an image to display on the website of the argument. Size:"
+msgstr "Загрузить картинку аргумента для отображения на сайте. Размер:"
+
+#: languages/localize.php:74 languages/localize.php:156
+msgid "Catalog management"
+msgstr "Настройки каталога"
+
+#: languages/localize.php:75
+msgid "Promotion"
+msgstr "Продвижение"
+
+#: languages/localize.php:76
+msgid "Upload an image to display on the site. The size:"
+msgstr "Загрузить картинку аргумента для отображения на сайте. Размер:"
+
+#: languages/localize.php:77
+msgid "Advertising your products and services on the Internet"
+msgstr "Реклама Ваших товаров и услуг в интернете"
+
+#: languages/localize.php:79
+msgid "Web site"
+msgstr "Интернет-сайт"
+
+#: languages/localize.php:80
+msgid "Make changes in this section only if you know what you are doing."
+msgstr "Вносите изменения в этот раздел только если знаете, что делаете."
+
+#: languages/localize.php:81
+msgid "Order a website: selling, modern, according to your needs"
+msgstr "Заказать интернет-сайт:  продающий, современный, под Ваши нужды"
+
+#: languages/localize.php:82
+msgid "Additionally"
+msgstr "Дополнительно"
+
+#: languages/localize.php:83
+msgid "Contact button text (in the header)"
+msgstr "Кнопка обращения (в шапке)"
+
+#: languages/localize.php:84
+msgid "Advertising"
+msgstr "Реклама"
+
+#: languages/localize.php:85
+msgid "Copyright text"
+msgstr "Текст копирайта"
+
+#: languages/localize.php:86
+msgid "Order advertising on the Internet"
+msgstr "Заказать рекламу в интернете"
+
+#: languages/localize.php:87
+msgid "Favicon - icon on browser tab"
+msgstr "Favicon - иконка окна браузера"
+
+#: languages/localize.php:88
+msgid "Our products"
+msgstr "Наши продукы"
+
+#: languages/localize.php:89 languages/localize.php:183
+msgid ""
+"This text acts as a navigation link to the relevant section of your site."
+msgstr ""
+"Данный текст выступает в роли навигационной ссылки на соответствующий раздел "
+"Вашего сайта."
+
+#: languages/localize.php:90
+msgid "Description of the first product to display on the main page"
+msgstr "Описание первого продукта для вывода на главной странице"
+
+#: languages/localize.php:91
+msgid "Description of the second product to display on the main page"
+msgstr "Описание второго продукта для вывода на главной странице"
+
+#: languages/localize.php:92
+msgid "Description of the third product to display on the main page"
+msgstr "Описание третьего продукта для вывода на главной странице"
+
+#: languages/localize.php:93
+msgid "Description of the fourth product to display on the main page"
+msgstr "Описание четвёртого продукта для вывода на главной странице"
+
+#: languages/localize.php:94
+msgid "The product`s name"
+msgstr "Название продукта"
+
+#: languages/localize.php:95
+msgid "Description of the first parameter of the product"
+msgstr "Описание первого параметра продукта"
+
+#: languages/localize.php:96
+msgid "Description of the second product parameter"
+msgstr "Описание второго параметра продукта"
+
+#: languages/localize.php:97
+msgid "Description of the third parameter of the product"
+msgstr "Описание третьего параметра продукта"
+
+#: languages/localize.php:98
+msgid "Description of the fourth product parameter"
+msgstr "Описание четвёртого параметра продукта"
+
+#: languages/localize.php:99
+msgid "Description of the fifth parameter of the product"
+msgstr "Описание пятого параметра продукта"
+
+#: languages/localize.php:100
+msgid "Description of the sixth parameter of the product"
+msgstr "Описание шестого параметра продукта"
+
+#: languages/localize.php:101
+msgid "Price and currency"
+msgstr "Цена и валюта"
+
+#: languages/localize.php:102
+msgid "Additional condition to the price"
+msgstr "Дополнительное условие к цене"
+
+#: languages/localize.php:103
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: languages/localize.php:104
+msgid "Delete product"
+msgstr "Удалить продукт"
+
+#: languages/localize.php:105
+msgid "Add text box - product option"
+msgstr "Добавить текстовое поле - параметр продукта"
+
+#: languages/localize.php:106
+msgid "Product description"
+msgstr "Описание продукта"
+
+#: languages/localize.php:107
+msgid "Upload a product image. Size:"
+msgstr "Загрузите изображение товара. Размер:"
+
+#: languages/localize.php:108
+msgid "Add a product to display on the main page"
+msgstr "Добавить продукт для вывода на главной странице"
+
+#: languages/localize.php:109
+msgid "You can place more products on"
+msgstr "Больше товаров Вы можете разместить на"
+
+#: languages/localize.php:111
+msgid "Article about your company"
+msgstr "Статья о Вашей компании"
+
+#: languages/localize.php:112
+msgid "Article title"
+msgstr "Заголовок статьи"
+
+#: languages/localize.php:113
+msgid "About our company"
+msgstr "О нашем предприятии"
+
+#: languages/localize.php:114
+msgid "The text of the article \"About the company\""
+msgstr "Текст статьи «О компании»"
+
+#: languages/localize.php:115
+msgid ""
+"Write the key data characterizing your enterprise. How long ago did you "
+"start working? How many employees? What are the achievements of the company "
+"in the industry? What characteristics of your company`s organization should "
+"inspire confidence in a potential client?"
+msgstr ""
+"Напишите ключевые данные, характеризующие Ваше предприятие. Как давно Вы "
+"начали работать? Сколько сотрудников? Какие достижения у компании в отрасли? "
+"Какие характеристики организации Вашей компании должны вызывать доверие у "
+"потенциального клиента?"
+
+#: languages/localize.php:116
+msgid "Video presentation"
+msgstr "Видео презентация"
+
+#: languages/localize.php:117
+msgid "Title"
+msgstr "Заголовок"
+
+#: languages/localize.php:118
+msgid "Profitable"
+msgstr "Выгодно"
+
+#: languages/localize.php:119
+msgid "Text"
+msgstr "Текст"
+
+#: languages/localize.php:120
+msgid ""
+"Write information indicating the good quality of your services or products. "
+"Warranty terms, if you can give one. For example, we only work with the most "
+"talented designers."
+msgstr ""
+"Напишите информацию, указывающую на хорошее качество Ваших услуг или "
+"товаров. Условия гарантии, если Вы такую можете дать. Например, мы работаем "
+"только с самыми талантливыми дизайнерами."
+
+#: languages/localize.php:121
+msgid "Upload a video to display on the site"
+msgstr "Загрузить видео для отображения на сайте"
+
+#: languages/localize.php:123
+msgid "First advantage"
+msgstr "Первоe преимущество"
+
+#: languages/localize.php:124
+msgid "Second advantage"
+msgstr "Второе преимущество"
+
+#: languages/localize.php:125
+msgid "Third advantage"
+msgstr "Третье преимущество"
+
+#: languages/localize.php:126
+msgid "Description of the benefit"
+msgstr "Описание преимущества"
+
+#: languages/localize.php:127
+msgid "Describe your benefit. Keep within 100 characters."
+msgstr "Опишите Ваше преимущество. Уложитесь в 100 символов."
+
+#: languages/localize.php:128
+msgid "Upload a picture of the benefit. Size:"
+msgstr "Загрузить картинку преимущества. Размер:"
+
+#: languages/localize.php:129
+msgid "Upload"
+msgstr "Загрузить"
+
+#: languages/localize.php:130
+msgid "Benefit heading"
+msgstr "Заголовок преимущества"
+
+#: languages/localize.php:131
+msgid "We are the best!"
+msgstr "Мы лучшие!"
+
+#: languages/localize.php:132
+msgid "We are reliable!"
+msgstr "Мы надежные!"
+
+#: languages/localize.php:133
+msgid "We are profitable!"
+msgstr "Мы выгодные!"
+
+#: languages/localize.php:134
+msgid "Connect with us"
+msgstr "Свяжитесь с нами"
+
+#: languages/localize.php:135
+msgid "Add new image"
+msgstr "Добавить новое изображение"
+
+#: languages/localize.php:136
+msgid "Add image"
+msgstr "Добавить изображение"
+
+#: languages/localize.php:137
+msgid "or choose from the collection"
+msgstr "или выберите из коллекции"
+
+#: languages/localize.php:138
+msgid "Localization management"
+msgstr "Управление локализацией"
+
+#: languages/localize.php:139
+msgid "Add a language"
+msgstr "Добавить локализацию"
+
+#: languages/localize.php:140
+msgid "Contact form"
+msgstr "Форма связи"
+
+#: languages/localize.php:141
+msgid "Block header"
+msgstr "Заголовок блока"
+
+#: languages/localize.php:142
+msgid "Email to which requests will be sent"
+msgstr "E-mail, на который будут приходить заявки"
+
+#: languages/localize.php:143
+msgid ""
+"The client will indicate the phone number and will be able to choose the "
+"preferred type of communication from the list:"
+msgstr ""
+"Клиент укажет номер телефона и сможет выбрать предпочтительный вид связи из "
+"списка:"
+
+#: languages/localize.php:144
+msgid "Telephone call"
+msgstr "Звонок по телефону"
+
+#: languages/localize.php:145
+msgid ""
+"The client will be able to mark the topic, question or service of interest "
+"to him (maximum 4, if the field is empty, then it will not appear on the "
+"site)"
+msgstr ""
+"Клиент сможет отметить интересующую его тему, вопрос или услугу (максимум 4, "
+"если поле пустое, то оно не покажется на сайте)"
+
+#: languages/localize.php:146
+msgid "Topic name"
+msgstr "Название темы"
+
+#: languages/localize.php:147
+msgid "Add topic"
+msgstr "Добавить тему"
+
+#: languages/localize.php:148
+msgid "Text on the Submit Request button"
+msgstr "Текст на кнопке «Отправить запрос»"
+
+#: languages/localize.php:149
+msgid "Additional features for the client:"
+msgstr "Дополнительные возможности для клиента:"
+
+#: languages/localize.php:150
+msgid "Send a message"
+msgstr "Отправить сообщение"
+
+#: languages/localize.php:151
+msgid "Enter promo code"
+msgstr "Ввести промокод"
+
+#: languages/localize.php:152
+msgid "The recommended amount of site filling is 5000 characters"
+msgstr "Рекомендованный объем заполнения сайта 5000 символов"
+
+#: languages/localize.php:153
+msgid "Completed characters"
+msgstr "Заполнено символа(ов)"
+
+#: languages/localize.php:154
+msgid "Go up"
+msgstr "Наверх"
+
+#: languages/localize.php:155
+msgid "Block in development"
+msgstr "Блок в разработке"
+
+#: languages/localize.php:157
+msgid "To main"
+msgstr "На главную"
+
+#: languages/localize.php:158
+msgid "Enable Catalog Page"
+msgstr "Включить страницу \"Каталог\""
+
+#: languages/localize.php:159
+msgid "Add product to catalog"
+msgstr "Добавить продукт в каталог"
+
+#: languages/localize.php:160
+msgid "Catalog page name"
+msgstr "Название страницы каталога"
+
+#: languages/localize.php:161
+msgid "Enter page name"
+msgstr "Введите название страницы"
+
+#: languages/localize.php:162
+msgid "Catalog page title"
+msgstr "Заголовок страницы каталога"
+
+#: languages/localize.php:163
+msgid "Enter page title"
+msgstr "Введите заголовок страницы"
+
+#: languages/localize.php:164
+msgid "Catalog page description"
+msgstr "Описание страницы каталога"
+
+#: languages/localize.php:165
+msgid "Enter page description"
+msgstr "Введите описание страницы"
+
+#: languages/localize.php:166
+msgid "Remove a product from the catalog?"
+msgstr "Удалить продукт из каталога?"
+
+#: languages/localize.php:167
+msgid "Product name to display in the catalog"
+msgstr "Название продукта для вывода в каталоге"
+
+#: languages/localize.php:168
+msgid "Enter product name"
+msgstr "Введите название продукта"
+
+#: languages/localize.php:169
+msgid "Product description to display in the catalog"
+msgstr "Описание продукта для вывода в каталоге"
+
+#: languages/localize.php:170
+msgid "Enter data"
+msgstr "Введите данные"
+
+#: languages/localize.php:171
+msgid "Enter condition text"
+msgstr "Введите текст условия"
+
+#: languages/localize.php:172
+msgid "Enter text"
+msgstr "Введите текст"
+
+#: languages/localize.php:173
+msgid "Upload a product image"
+msgstr "Загрузите изображение товара"
+
+#: languages/localize.php:174
+msgid ""
+"Describe the main parameter of your product. You can add up to six products "
+"or services in total."
+msgstr ""
+"Опишите главный параметр Вашего продукта. Вы можете добавить до шести "
+"позиций."
+
+#: languages/localize.php:175
+msgid "Product gallery"
+msgstr "Галерея продукта"
+
+#: languages/localize.php:176
+msgid "Description of the product or service"
+msgstr "Описание продукта или услуги"
+
+#: languages/localize.php:177
+msgid "Name of the product or service"
+msgstr "Название продукта или услуги"
+
+#: languages/localize.php:178
+msgid "Your product is missing parameters"
+msgstr "У Вашего продукта отсутствуют параметры"
+
+#: languages/localize.php:179
+msgid "Enter product description"
+msgstr "Введите описание продукта"
+
+#: languages/localize.php:180
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: languages/localize.php:181
+msgid "Messengers"
+msgstr "Мессенджеры"
+
+#: languages/localize.php:182
+msgid "Site versions for different languages"
+msgstr "Версии сайта для разных языков"
+
+#: languages/localize.php:184
+msgid "Default site language"
+msgstr "Язык сайта по-умолчанию"
+
+#: languages/localize.php:185
+msgid ""
+"The first item in your list of added languages is the site's default language"
+msgstr ""
+"Первый пункт в вашем списке добавленных локализаций является языком сайта по "
+"умолчанию"
+
+#: languages/localize.php:186
+msgid "Your site may be available in these languages"
+msgstr "Ваш сайт может быть доступен на этих языках"
+
+#: languages/localize.php:187
+msgid "You can add localization for a site from this list"
+msgstr "Вы можете добавить локализацию сайта из этого списка"
+
+#: languages/localize.php:188
+msgid "To change the main language of the site, move it to the top of the list"
+msgstr "Чтобы изменить основной язык сайта переместите его на верх списка"
+
+#: languages/localize.php:189
+msgid "Import registration data"
+msgstr "Импортировать регистрационные данные"
+
+#: languages/localize.php:190
+msgid "YES"
+msgstr "ДА"
+
+#: languages/localize.php:191
+msgid "NO"
+msgstr "НЕТ"
+
+#: languages/localize.php:194
+msgid "Additionally inform"
+msgstr "Дополнительно сообщаю"
+
+#: languages/localize.php:195
+msgid "Free domain change"
+msgstr "Изменение бесплатного домена"
+
+#: languages/localize.php:196
+msgid "Please, change the current domain to"
+msgstr "Прошу изменить текущий домен на"
+
+#: languages/localize.php:197
+msgid "Connecting your domain"
+msgstr "Подключите Ваш домен"
+
+#: languages/localize.php:198
+msgid "Specify the domain you want to attach"
+msgstr "Укажите домен, который хотите подключить"
+
+#: languages/localize.php:199
+msgid "Your message has been sent"
+msgstr "Ваше сообщение отправлено. Спасибо"
+
+#: languages/localize.php:200
+msgid "Error sending message. Try later."
+msgstr "Ошибка при отправке сообщения. Попробуйте позже."
+
+#: languages/localize.php:201
+msgid "Change mail"
+msgstr "Изменить почту"
+
+#: languages/localize.php:202
+msgid "Your mail"
+msgstr "Ваша почта"
+
+#: languages/localize.php:203
+msgid "Please, change the current email to"
+msgstr "Прошу изменить текущий домен на"
+
+#: languages/localize.php:204
+msgid "I understand, still send"
+msgstr "Я понимаю, отправить"
+
+#: languages/localize.php:205
+msgid ""
+"Changing the mail name will create a new mailbox. All information from the "
+"current mailbox will be deleted and is no longer available."
+msgstr ""
+"Изменение имени почты создаст новый почтовый ящик. Вся информация из "
+"текущего почтового ящика будет удалена и больше недоступна."
+
+#: languages/localize.php:206
+msgid "Go to Webmail"
+msgstr "Перейти в Webmail"
+
+#: languages/localize.php:207
+msgid "Connect mail on your domain"
+msgstr "Подключить почту на своем домене"
+
+#: languages/localize.php:208
+msgid ""
+"In order to connect mail on your domain, you need to send domain.Go to the "
+"Manage Domains page and connect your domain if you haven`t already"
+msgstr ""
+"Для того, чтобы подключить почту на своем домене, вам необходимо прикрепить "
+"домен. Перейдите на страницу «Управление доменами» и подключите свой домен, "
+"если вы еще этого не сделали"
+
+#: languages/localize.php:209
+msgid "Go to domain management"
+msgstr "Перейти к управлению доменом"
+
+#: languages/localize.php:210
+msgid "Specify the name of the domain on which you want to connect mail"
+msgstr "Укажите имя домена, на который вы хотите подключить почту"
+
+#: languages/localize.php:211
+msgid "Enter the email name you want"
+msgstr "Введите название почтового ящика, которое Вы хотите"
+
+#: languages/localize.php:212
+msgid "Your login"
+msgstr "Ваш логин"
+
+#: languages/localize.php:213
+msgid "Reset the password"
+msgstr "Сбросить пароль"
+
+#: languages/localize.php:215
+msgid "Change"
+msgstr "Изменить"
+
+#: languages/localize.php:216
+msgid "A new password will be sent to this address"
+msgstr "Новый пароль был отправлен на этот адрес"
+
+#: languages/localize.php:217
+msgid "The password has been sent to the specified mailbox"
+msgstr "Пароль был отправлен на указанный почтовый адрес"
+
+#: languages/localize.php:218
+msgid "Processing request"
+msgstr "Обработка запроса"
+
+#: templates/ip-catalog-tpl.php:67
+msgid "Read more"
+msgstr "Развернуть"
+
+#: templates/ip-catalog-tpl.php:68
+msgid "Read less"
+msgstr "Свернуть"
+
+#: templates/ip-catalog-tpl.php:81
+msgid "Hi, I'm interested in"
+msgstr "Здравствуйте, меня интересует"
+
+#: templates/ip-catalog-tpl.php:81
+msgid "I have some questions. Please contact me for details"
+msgstr ""
+"У меня есть вопросы. Пожалуйста, свяжитесь со мной для уточнения деталей."
+
+#: templates/ip-catalog-tpl.php:83
+msgid "New order"
+msgstr "Новый заказ"
+
+#: templates/ip-catalog-tpl.php:84
+msgid "Order"
+msgstr "Заказать"
+
+#: templates/ip-catalog-tpl.php:98
+msgid "Catalog is empty"
+msgstr "Каталог пуст"
+
+#: templates/ip-catalog-tpl.php:112
+msgid "Prev"
+msgstr "Назад"
+
+#: templates/ip-catalog-tpl.php:116
+msgid "Next"
+msgstr "Далее"
+
+#~ msgid "Consultation"
+#~ msgstr "Консультация"
+
+#~ msgid "Second argument header"
+#~ msgstr "Заголовок второго аргумента"
+
+#~ msgid "Description of the second argument"
+#~ msgstr "Описание второго аргумента"
+
+#~ msgid "Description of the third argument"
+#~ msgstr "Описание третьего аргумента"
+
+#~ msgid ""
+#~ "Upload an image to display on the website of the third argument. Size:"
+#~ msgstr ""
+#~ "Загрузить картинку для отображения на сайте третьего аргумента. Размер:"
+
+#~ msgid "Header of the fourth argument"
+#~ msgstr "Заголовок четвёртого аргумента"
+
+#~ msgid "Description of the fourth argument"
+#~ msgstr "Описание четвёртого аргумента"
+
+#~ msgid ""
+#~ "Upload a picture to display on the site of the fourth argument. Size:"
+#~ msgstr ""
+#~ "Загрузить картинку для отображения на сайте четвертого аргумента. Размер:"
+
+#~ msgid "Download"
+#~ msgstr "Загрузить"
+
+#~ msgid "Second benefit heading"
+#~ msgstr "Заголовок второго преимущества"
+
+#~ msgid "Description of the second benefit"
+#~ msgstr "Описание второго преимущества"
+
+#~ msgid ""
+#~ "Describe your second benefit. For example, we have ironclad guarantees "
+#~ "and vast experience."
+#~ msgstr ""
+#~ "Опишите Ваше второе преимущество. Например, у нас железные гарантии и "
+#~ "огромный опыт."
+
+#~ msgid "Third benefit heading"
+#~ msgstr "Заголовок третьего преимущества"
+
+#~ msgid "Description of the third benefit"
+#~ msgstr "Описание третьего преимущества"
+
+#~ msgid ""
+#~ "Describe your third benefit. For example, we have low prices and direct "
+#~ "deliveries."
+#~ msgstr ""
+#~ "Опишите Ваше третье преимущество. Например, у нас низкие цены и прямые "
+#~ "поставки."
