@@ -1,6 +1,7 @@
 <?php
-
+##===============================
 ## Локализация для фронта
+##===============================
 
 add_action('wp_enqueue_scripts', 'localization_for_front', 99);
 
@@ -11,7 +12,7 @@ function localization_for_front()
         'Ошибка при отправке сообщения! Попробуйте ещё раз.',
     );
 
-    // Выводим объект локализации в скрипт на фронте, который который забирает custom.js под тэгом "ip-main"
+    // Выводим объект локализации в скрипт на фронте, который забирает custom.js под тэгом "ip-main"
     $localize = [];
     foreach ($l as $w) {
         $localize[$w] = __($w, "ip");
@@ -19,7 +20,9 @@ function localization_for_front()
     wp_localize_script('ip-main', 'localize', $localize);
 }
 
+##===============================
 ## Локализация для админки
+##===============================
 
 add_action('admin_enqueue_scripts', 'localization_for_admin_app', 99);
 
